@@ -1,0 +1,28 @@
+.FirstDiv{
+  color: blue;
+}
+.SecondDiv{
+  color: red;
+}
+#singledout{
+  color: green;
+  text-transform: capitalize;
+}
+#out{
+  color: yellow;
+}
+.ThirdDiv{
+  color: purple;
+}
+h3 + ul{
+  border: 4px dotted red;
+}
+
+
+li a{
+  color: red;
+}
+li a[href="www.udemy.com"]{
+  color: blue;
+  border: 5px solid orange;
+}
