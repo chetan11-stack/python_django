@@ -1,0 +1,29 @@
+h1{
+  text-align: center;
+  font-family: 'Tourney', cursive;
+}
+.art{
+  margin: auto;
+}
+
+td{
+  height: 300px;
+  width: 150px;
+  border: 6px solid white;
+
+}
+#one{
+  background-color: red;
+}
+#two{
+  background-color: #325FA2;
+}
+#three{
+  background-color: #143642;
+}
+#four{
+  background-color: green;
+}
+#five{
+  background-color: blue;
+}
